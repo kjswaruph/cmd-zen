@@ -1,4 +1,4 @@
-"""cmd-zen: AI-powered Linux system administration CLI tool."""
+"""cmd-zen"""
 
 __version__ = "0.1.0"
-__description__ = "AI-powered command-line assistant for Linux system administration"
+__description__ = "cmdzen"
